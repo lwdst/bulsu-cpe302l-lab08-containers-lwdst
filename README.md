@@ -87,8 +87,8 @@ CMD ["python", "app.py"]
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/bsu-cpe/cpe302l-lab08-containers-juan-delacruz.git
-   cd cpe302l-lab08-containers-juan-delacruz/CPE302L_Lab08
+   git clone https://github.com/lwdst/bulsu-cpe302l-lab08-containers-lwdst
+   cd bulsu-cpe302l-lab08-containers-lwdst/CPE302L_Lab08
    ```
 
 2. **Build the container image:**
